@@ -1,4 +1,4 @@
-# Arka & Samadrita - A Love Story 💕
+A Love Story based website 
 
 An interactive, image-centric photo carousel website celebrating a beautiful love story. Built with HTML5, CSS3, and vanilla JavaScript using Bootstrap 5.
 
@@ -29,7 +29,7 @@ An interactive, image-centric photo carousel website celebrating a beautiful lov
 ## 🎨 Design Highlights
 
 - **Minimal Text Overlay** - Images are the primary focus (max-height: 28vh caption)
-- **Color-Coded Messages** - Arka's messages in blue, Samadrita's in pink
+- **Color-Coded Messages** - Makers's messages in blue, Special person's in pink
 - **Scene Descriptions** - Poetic descriptions for each slide
 - **Slide Counter** - Top-right counter showing current position (e.g., 5/30)
 - **Gradient Backgrounds** - Beautiful gradients transitioning from black to transparent
