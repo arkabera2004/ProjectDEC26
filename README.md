@@ -210,4 +210,5 @@ This project is a romantic photo carousel telling the complete love story of Ark
 
 ---
 
-**Made with ❤️** | View live: https://github.com/arkabera2004/ProjectDEC26
+**Made with Arka Bera** | 
+View live: https://github.com/arkabera2004/ProjectDEC26
